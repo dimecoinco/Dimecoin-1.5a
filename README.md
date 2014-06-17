@@ -21,7 +21,7 @@ with each other, with the help of a P2P network to check for double-spending.
 
 Extra information
 ---------------------
-This is the first of two versions of Dimecoin 1.5 authored by Hazard. The second version compiles better in later Ubuntu editions (Roberrt Hartlland's)
+This is the first of two versions of Dimecoin 1.5 authored by Hazard. The second version compiles better in later Ubuntu editions (Roberrt Hartlland/Dimelord)
 
 
 Setup
